@@ -1,2 +1,1 @@
 # Hello-World-06
-CIS 4100 GITHUB
